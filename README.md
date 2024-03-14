@@ -15,3 +15,19 @@
 4. Comando para listar as modificações dos arquivos (histórico de modificações).
 
         `git log`
+
+5. Comando para adicionar fonte remota:
+
+        `git remote add origin <link_para_o_repositorio>`
+
+6. Comando para enviar as modificações para repositorio remoto:
+       
+        `git push`
+
+7. Comando para criar novas branchs (galhos):
+        
+        `git branch <nome da branch>`
+
+8. Comando para mudar de galho (branch):
+
+        `git checkout <nome do galho>`
