@@ -11,3 +11,7 @@
 3. Comando para salvar as alterações feitas no arquivo:
         
         `git commit -m "<mensagem do commit>"`
+
+4. Comando para listar as modificações dos arquivos (histórico de modificações).
+
+        `git log`
