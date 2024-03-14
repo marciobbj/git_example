@@ -23,3 +23,11 @@
 6. Comando para enviar as modificações para repositorio remoto:
        
         `git push`
+
+7. Comando para criar novas branchs (galhos):
+        
+        `git branch <nome da branch>`
+
+8. Comando para mudar de galho (branch):
+
+        `git checkout <nome do galho>`
